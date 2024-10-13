@@ -1,4 +1,4 @@
- EM Board Games Bot
+# EM Board Games Bot
 
 Bienvenue dans le dépôt **EM Board Games Bot** ! Ce projet est un bot Discord conçu pour offrir une expérience de jeu de plateau interactive directement sur votre serveur Discord. Avec une variété de jeux intégrés, les utilisateurs peuvent s'affronter et s'amuser sans quitter leur canal de discussion.
 
