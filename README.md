@@ -7,3 +7,6 @@ Bienvenue dans le dépôt **EM Board Games Bot** ! Ce projet est un bot Discord 
 - **Jeux de Plateau Intégrés** : Jouez à des jeux classiques comme le **Morpion (Tic-Tac-Toe)**, avec d'autres jeux à venir.
 - **Interface Simple** : Utilisez des commandes simples pour interagir avec le bot et jouer à des jeux.
 - **Jeu Multijoueur** : Invitez vos amis et jouez ensemble en temps réel.
+
+## Commandes
+- **?morpion pour lance le morpion
