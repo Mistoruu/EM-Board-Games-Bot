@@ -9,4 +9,5 @@ Bienvenue dans le dépôt **EM Board Games Bot** ! Ce projet est un bot Discord 
 - **Jeu Multijoueur** : Invitez vos amis et jouez ensemble en temps réel.
 
 ## Commandes
-- **?morpion pour lance le morpion
+- **?morpion pour lancer le morpion(Tic-Tac-Toe)**
+- **?help pour avoir la liste complete des commandes**
